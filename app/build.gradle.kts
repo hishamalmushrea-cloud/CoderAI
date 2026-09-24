@@ -118,7 +118,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.yugahashimoto.andcode"
+        applicationId = "com.hishamalmushrea.coderai"
         minSdk = 26
         targetSdk = 35
         versionCode = 64
